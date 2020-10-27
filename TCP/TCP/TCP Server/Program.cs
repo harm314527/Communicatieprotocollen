@@ -66,19 +66,27 @@ namespace TCP_Server
                     
                     while (true)
                     {
-                        Console.WriteLine("Clients Sended: ");
+                        
                         string msg = server.Receive();
-                        Console.WriteLine(msg);
+                       
+                        
                         if (msg == "Logoff")
                         {
-                            break;
+                            break; //Sensordata: 0.10PPM
                         }
-                        else
+                        if (msg != "CANTREAD")
                         {
-                            /*Console.WriteLine("Geef antwoord naar client");
-                            msg = Console.ReadLine();*/
-                            server.SendToClient("ACK");
+                            // Console.WriteLine("Clients Sended: ");
+                            // Console.WriteLine(msg);
+
+                            if (msg.Substring(0, 11) == "Sensordata:")
+                            {
+                                string data = msg.Substring(11, 4);
+                                Console.WriteLine(data);
+                                Sensordata s = new Sensordata(Convert.ToDouble(data), data.Substring(17));
+                            }
                         }
+                        
                     }
                 }
             }
