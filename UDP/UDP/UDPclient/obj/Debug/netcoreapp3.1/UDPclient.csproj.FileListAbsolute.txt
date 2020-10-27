@@ -1,0 +1,13 @@
+D:\Repositories\UDP\UDP\UDPclient\obj\Debug\netcoreapp3.1\UDPclient.csprojAssemblyReference.cache
+D:\Repositories\UDP\UDP\UDPclient\obj\Debug\netcoreapp3.1\UDPclient.AssemblyInfoInputs.cache
+D:\Repositories\UDP\UDP\UDPclient\obj\Debug\netcoreapp3.1\UDPclient.AssemblyInfo.cs
+D:\Repositories\UDP\UDP\UDPclient\obj\Debug\netcoreapp3.1\UDPclient.csproj.CoreCompileInputs.cache
+D:\Repositories\UDP\UDP\UDPclient\bin\Debug\netcoreapp3.1\UDPclient.exe
+D:\Repositories\UDP\UDP\UDPclient\bin\Debug\netcoreapp3.1\UDPclient.deps.json
+D:\Repositories\UDP\UDP\UDPclient\bin\Debug\netcoreapp3.1\UDPclient.runtimeconfig.json
+D:\Repositories\UDP\UDP\UDPclient\bin\Debug\netcoreapp3.1\UDPclient.runtimeconfig.dev.json
+D:\Repositories\UDP\UDP\UDPclient\bin\Debug\netcoreapp3.1\UDPclient.dll
+D:\Repositories\UDP\UDP\UDPclient\bin\Debug\netcoreapp3.1\UDPclient.pdb
+D:\Repositories\UDP\UDP\UDPclient\obj\Debug\netcoreapp3.1\UDPclient.dll
+D:\Repositories\UDP\UDP\UDPclient\obj\Debug\netcoreapp3.1\UDPclient.pdb
+D:\Repositories\UDP\UDP\UDPclient\obj\Debug\netcoreapp3.1\UDPclient.genruntimeconfig.cache

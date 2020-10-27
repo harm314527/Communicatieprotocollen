@@ -1,0 +1,21 @@
+D:\Repositories\Communicatieprotocollen\RestClient\Rest Client\Rest Client\bin\Debug\netcoreapp3.1\Rest Client.exe
+D:\Repositories\Communicatieprotocollen\RestClient\Rest Client\Rest Client\bin\Debug\netcoreapp3.1\Rest Client.deps.json
+D:\Repositories\Communicatieprotocollen\RestClient\Rest Client\Rest Client\bin\Debug\netcoreapp3.1\Rest Client.runtimeconfig.json
+D:\Repositories\Communicatieprotocollen\RestClient\Rest Client\Rest Client\bin\Debug\netcoreapp3.1\Rest Client.runtimeconfig.dev.json
+D:\Repositories\Communicatieprotocollen\RestClient\Rest Client\Rest Client\bin\Debug\netcoreapp3.1\Rest Client.dll
+D:\Repositories\Communicatieprotocollen\RestClient\Rest Client\Rest Client\bin\Debug\netcoreapp3.1\Rest Client.pdb
+D:\Repositories\Communicatieprotocollen\RestClient\Rest Client\Rest Client\obj\Debug\netcoreapp3.1\Rest Client.csprojAssemblyReference.cache
+D:\Repositories\Communicatieprotocollen\RestClient\Rest Client\Rest Client\obj\Debug\netcoreapp3.1\Rest Client.AssemblyInfoInputs.cache
+D:\Repositories\Communicatieprotocollen\RestClient\Rest Client\Rest Client\obj\Debug\netcoreapp3.1\Rest Client.AssemblyInfo.cs
+D:\Repositories\Communicatieprotocollen\RestClient\Rest Client\Rest Client\obj\Debug\netcoreapp3.1\Rest Client.dll
+D:\Repositories\Communicatieprotocollen\RestClient\Rest Client\Rest Client\obj\Debug\netcoreapp3.1\Rest Client.pdb
+D:\Repositories\Communicatieprotocollen\RestClient\Rest Client\Rest Client\obj\Debug\netcoreapp3.1\Rest Client.genruntimeconfig.cache
+D:\Repositories\Communicatieprotocollen\RestClient\Rest Client\Rest Client\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Repositories\Communicatieprotocollen\RestClient\Rest Client\Rest Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Repositories\Communicatieprotocollen\RestClient\Rest Client\Rest Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Repositories\Communicatieprotocollen\RestClient\Rest Client\Rest Client\obj\Debug\netcoreapp3.1\Rest Client.csproj.CopyComplete
+D:\Repositories\Communicatieprotocollen\RestClient\Rest Client\Rest Client\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Repositories\Communicatieprotocollen\RestClient\Rest Client\Rest Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Repositories\Communicatieprotocollen\RestClient\Rest Client\Rest Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Repositories\Communicatieprotocollen\RestClient\Rest Client\Rest Client\bin\Debug\netcoreapp3.1\Nancy.dll
+D:\Repositories\Communicatieprotocollen\RestClient\Rest Client\Rest Client\obj\Debug\netcoreapp3.1\Rest Client.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+D:\Repositories\TCP\TCP\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.exe
+D:\Repositories\TCP\TCP\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.deps.json
+D:\Repositories\TCP\TCP\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.runtimeconfig.json
+D:\Repositories\TCP\TCP\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.runtimeconfig.dev.json
+D:\Repositories\TCP\TCP\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.dll
+D:\Repositories\TCP\TCP\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.pdb
+D:\Repositories\TCP\TCP\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csprojAssemblyReference.cache
+D:\Repositories\TCP\TCP\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.AssemblyInfoInputs.cache
+D:\Repositories\TCP\TCP\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.AssemblyInfo.cs
+D:\Repositories\TCP\TCP\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csproj.CoreCompileInputs.cache
+D:\Repositories\TCP\TCP\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.dll
+D:\Repositories\TCP\TCP\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.pdb
+D:\Repositories\TCP\TCP\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.genruntimeconfig.cache
